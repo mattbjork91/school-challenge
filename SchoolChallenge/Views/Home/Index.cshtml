@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<h2>Home Page</h2>
+<h3>Import Teachers or Students from File</h3>
+
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input type="text" name="postedFile" />
+        <input type="submit" value="Import" />
+    }

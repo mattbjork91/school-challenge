@@ -7,3 +7,7 @@ C:\source\school-challenge\SchoolChallenge\obj\Debug\netcoreapp1.1\SchoolChallen
 C:\source\school-challenge\SchoolChallenge\obj\Debug\netcoreapp1.1\SchoolChallenge.AssemblyInfo.cs
 C:\source\school-challenge\SchoolChallenge\obj\Debug\netcoreapp1.1\SchoolChallenge.dll
 C:\source\school-challenge\SchoolChallenge\obj\Debug\netcoreapp1.1\SchoolChallenge.pdb
+C:\Users\bjork\OneDrive\Documents\GitHub\school-challenge\SchoolChallenge\obj\Debug\netcoreapp1.1\SchoolChallenge.csprojResolveAssemblyReference.cache
+C:\Users\bjork\OneDrive\Documents\GitHub\school-challenge\SchoolChallenge\obj\Debug\netcoreapp1.1\SchoolChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bjork\OneDrive\Documents\GitHub\school-challenge\SchoolChallenge\obj\Debug\netcoreapp1.1\SchoolChallenge.AssemblyInfoInputs.cache
+C:\Users\bjork\OneDrive\Documents\GitHub\school-challenge\SchoolChallenge\obj\Debug\netcoreapp1.1\SchoolChallenge.AssemblyInfo.cs
